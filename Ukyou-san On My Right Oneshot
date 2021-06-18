@@ -1,0 +1,17 @@
+{
+  "title": "Ukyou-san On My Right",
+  "description": "Ukyou-san On My Right",
+  "artist": "あきやま阳光",
+  "author": "あきやま阳光",
+  "cover": "https://media.discordapp.net/attachments/843531995110965338/855544044503302144/01.png",
+  "chapters": {
+    "1": {
+      "title": "Oneshot",
+      "volume": "",
+      "groups": {
+        "RingHeilgh": "/proxy/api/imgur/chapter/PXFHGrX/"
+      }
+      "last_updated": "1624050548"
+    }
+  }
+}
